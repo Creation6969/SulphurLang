@@ -1,0 +1,3 @@
+logLine "ready for a fact?"
+wait "2.5"
+logLine "among us is unfunny"
