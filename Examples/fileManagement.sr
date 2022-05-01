@@ -1,0 +1,2 @@
+writeToFile "./myFile.txt" :: getShellArg "1"
+logLine readFile "./myFile.txt"
